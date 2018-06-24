@@ -1,0 +1,12 @@
+sfdx-project.json
+.sfdx/sfdx-config.json
+.sfdx/orgs/test-hobbf8hpt3pp@example.com/maxrevision.json
+.sfdx/orgs/test-hobbf8hpt3pp@example.com/metadataTypeInfos.json
+.sfdx/orgs/test-hobbf8hpt3pp@example.com/sourcePathInfos.json
+.vscode/settings.json
+config/project-scratch-def.json
+.forceignore
+README.md
+.sfdx/tools/apex.db
+.sfdx/orgs/test-hobbf8hpt3pp@example.com/sourcePathInfos.json.bak
+.sfdx/typings/lwc/apex/AccountController.d.ts
